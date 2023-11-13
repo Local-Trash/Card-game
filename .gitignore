@@ -1,0 +1,4 @@
+./target
+
+./Frontend/dist
+Cargo.lock

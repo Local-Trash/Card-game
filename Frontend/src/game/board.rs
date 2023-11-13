@@ -1,16 +1,26 @@
 use leptos::{component, IntoView, view};
 
-// This is the individually cell on the board. There are 16.
+use super::cards::CardCell;
+
+// This is the individually cell on the board. There are currently 4.
 #[component]
-fn Cell() -> impl IntoView {
+fn Cell(card: CardCell) -> impl IntoView {
     view! {
         <div class=move || {
-            format!("cell")
+            format!(
+                "cell {}", 
+                match card { 
+                    CardCell::Empty => "",
+                    CardCell::Card(class) => class, 
+                }
+            )
         }></div>
     }
 }
 
 #[component]
-fn Board() -> IntoView {
-    view! {}
+pub fn Board() -> impl IntoView {
+    view! {
+        
+    }
 }

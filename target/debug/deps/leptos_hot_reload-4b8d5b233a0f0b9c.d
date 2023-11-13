@@ -1,0 +1,11 @@
+/workspaces/Card-game/target/debug/deps/leptos_hot_reload-4b8d5b233a0f0b9c.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/diff.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/node.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/parsing.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/patch.js
+
+/workspaces/Card-game/target/debug/deps/libleptos_hot_reload-4b8d5b233a0f0b9c.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/diff.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/node.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/parsing.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/patch.js
+
+/workspaces/Card-game/target/debug/deps/leptos_hot_reload-4b8d5b233a0f0b9c.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/diff.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/node.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/parsing.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/patch.js
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/diff.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/node.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/parsing.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/leptos_hot_reload-0.5.2/src/patch.js:
