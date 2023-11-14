@@ -1,9 +1,11 @@
 mod game;
 mod style;
+mod resource;
+mod home;
 
-use leptos::{component, document, ev, HtmlElement, IntoView, mount_to_body, on_cleanup, view, window_event_listener};
-use leptos::html::Div;
+use leptos::{component, mount_to_body, view, IntoView};
 use game::Game;
+use home::Header;
 
 fn main() {
     mount_to_body(|| view! { <App />});
@@ -12,6 +14,7 @@ fn main() {
 #[component]
 fn App() -> impl IntoView {
     view! {
+        <Header />
         <Game />
     }
 }

@@ -1,6 +1,7 @@
+#[derive(Debug, Clone, PartialEq, Eq, PartialOrd, Ord)]
 pub enum CardCell {
     Empty,
-    Card(&str)
+    Card(String)
 }
 
 pub trait CardClass {
