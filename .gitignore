@@ -2,3 +2,7 @@
 
 ./Frontend/dist
 Cargo.lock
+
+# Added by cargo
+
+/target
